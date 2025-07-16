@@ -1,4 +1,4 @@
-# Where2Skate
+# Where2Skate 🛹
 
 > An Android application for discovering, sharing, and rating skateparks and street spots.
 
@@ -16,7 +16,7 @@ The application allows users to:
 4.  Rate and review existing spots, helping others find the best places to skate.
 5.  Connect with other skaters through a shared platform of locations and feedback.
 
-## Key Features
+## Key Features 👀
 
 - **Firebase Authentication:** Secure user registration and login using email and password, managed by Firebase Auth.
 - **Interactive Spot Map:** Utilizes the Google Maps SDK for Android to display all user-submitted skate spots as markers on a map, providing an intuitive way to explore.
@@ -25,11 +25,9 @@ The application allows users to:
 - **Real-time Database:** Built on Cloud Firestore, ensuring all spot information and ratings are updated and synced across all users' devices in real-time.
 - **Modern Android Tech Stack:** Developed using Kotlin, Jetpack Compose for a declarative and modern UI, and follows recommended Android architecture patterns.
 
-## Application Screens
+## Application Screens 📲
 
 This section will showcase the main user interfaces of the application.
-
-*(You can add your screenshots here later)*
 
 1.  **Login & Registration Screen:** Clean and simple interface for user authentication.
 2.  **Home/Map Screen:** The main screen featuring the interactive map with all skate spots.
